@@ -11,3 +11,7 @@ Les étapes incluent l’utilisation des commandes Git pour collaborer, gérer l
 - Comprendre le workflow Git avec un dépôt distant sur GitLab.
 - User2 : gavin.nsh04@gmail.com
 - Apprendre à utiliser des commandes Git avancées
+
+
+- User1 : gavin_nshimirimana@ens.univ-artois.fr"
+- User2 : gavin.nsh04@gmail.com"
