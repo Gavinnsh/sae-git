@@ -5,3 +5,4 @@ Les étapes incluent l’utilisation des commandes Git pour collaborer, gérer l
 ## Contributeurs
 - User1 : gavin_nshimirimana@ens.univ-artois.fr
 - User2 : gavin.nsh04@gmail.com
+- Apprendre à utiliser des commandes Git avancées.
